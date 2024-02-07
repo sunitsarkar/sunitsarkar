@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MERN stack technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/srkr99
+- 📫 personal website https://sunitsarkar.netlify.app
 
 <!---
 sunitsarkar/sunitsarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
