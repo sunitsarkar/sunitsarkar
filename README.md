@@ -27,7 +27,7 @@ Let's connect and embark on this thrilling journey together! Feel free to reach 
 - 🐦 [Twitter](https://twitter.com/sunit_00)
 - 💼 [LinkedIn](https://www.linkedin.com/in/srkr99/)
 - 📧 [Email](sunit6503@gmail.com)
-- 🌐 [Personal Website/Blog](https://sunitsarkar.netlify.app/)
+- 🌐 [Personal Website/Blog](https://devsunit.netlify.app/)
 
 ## Let's Collaborate! 🤝
 
